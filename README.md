@@ -40,6 +40,3 @@ I'm an aspiring Software Developer with an interest in Python Development, Artif
 - **Python Development Intern** — Syllogistek Systems
 - **MERN Stack Development Intern** — Code Beat
 
-## 📚 Education
-
-**B.Tech in Electrical &
